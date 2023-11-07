@@ -4,4 +4,4 @@ Este projeto é um portfólio que aborda conceitos e funções relacionadas a st
 
 ## Requisitos
 
-- PHP 8.1 ou uma versão mais recente instalada em seu ambiente.
+- PHP 8.1 ou uma versão mais recente instalada em seu ambiente
